@@ -2,9 +2,11 @@ body {
     background-image: url("Images/cookies.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    font-family: Helvetica;
 }
 h1 {
-    color: #0400ff;
+    font-size: 36pt;
+    color: #ff0000;
 }
 h2 {
     color: black;
