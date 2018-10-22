@@ -20,6 +20,12 @@ a {
     right: 0;
     padding-right: 10px;
 }
+#bottom2 {
+position: fixed;
+bottom: 0;
+left: 0;
+padding-left: 10px;
+}
 #minecraft {
     max-height: 35%;
     max-width: 35%;
