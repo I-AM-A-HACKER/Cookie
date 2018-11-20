@@ -28,15 +28,15 @@ h3 {
 a {
     color: black;
 }
-#bottom {
+#bottomright {
     position: fixed;
     bottom: 0;
     right: 0;
     padding-right: 10px;
 }
-#bottom2 {
-position: fixed;
-bottom: 0;
-left: 0;
-padding-left: 10px;
+#bottomleft {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding-left: 10px;
 }
